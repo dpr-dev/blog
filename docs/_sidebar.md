@@ -1,0 +1,4 @@
+- [Home](/)
+- [2024-10](/docs/2024-10/readme.md)
+  - [Temporal: часть 1](/docs/2024-11/01-temporal.md)
+  - [Api Design для множества консьюмеров](/docs/2024-11/02-api-design-for-multiple-consumers.md)
