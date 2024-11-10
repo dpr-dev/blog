@@ -32,26 +32,22 @@
       });
 
       Object.assign(window, {
-        search: {
-          maxAge: 3600,
-          paths: ["/docs/*"], // or 'auto'
-          placeholder: "Type to search",
-          noData: "No Results!",
-          depth: 3,
-          hideOtherSidebarContent: false,
-        },
         $docsify: {
-          homepage: "home.md",
-          repo: "dpr-dev/blog",
+          repo: "https://github.com/dpr-dev/blog",
           loadSidebar: true,
           auto2top: true,
-          routerMode: "history",
           sidebarDisplayLevel: 1,
           subMaxLevel: 3,
           alias: {
-            "/docs/(.*)": "/$1",
-            "/blog/(.*)": "/$1",
             "/.*/_sidebar.md": "/_sidebar.md",
+          },
+
+          search: {
+            maxAge: 3600,
+            placeholder: "Type to search",
+            noData: "No Results!",
+            depth: 3,
+            hideOtherSidebarContent: false,
           },
           markdown: {
             renderer: {
