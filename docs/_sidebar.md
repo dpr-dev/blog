@@ -4,3 +4,5 @@
   - [Дизайн API: Как быть, когда есть множество потребителей](/2024-11/02-api-design-for-multiple-consumers.md)
 - 2024-12
   - [Тонкости JSONB в PostgreSQL и EF Core: Как постичь дзен?](/2024-12/01-ef-core-and-jsonb.md)
+- 2025-05
+  - [Temporal: Введение. Часть 2: workflow versioning](/2025-05/01-temporal-intro-part-2-versioning.md)
