@@ -2,14 +2,14 @@
 - <b style="color: blue">#distributed_transactions</b>
 - <b style="color: blue">#orchestration</b>
 
-# Temporal: Введение. Часть 2: workflow versioning
+# Temporal: Intro. Часть 2: workflow versioning
 
 В этой статье мы продолжим говорить о Temporal, а именно о том, какие подходы существуют для версионирования temporal workflow.
 
 Она является продолжением цикла статей о temporal и нашем опыте работы с ним. Предыдущие статьи можно найти тут
 
-- [Temporal: Введение. Часть 1](https://dpr-dev.github.io/blog/#/2024-11/01-temporal-intro-part-1)
-- [Temporal: Введение. Часть 2: workflow versioning (эта статья)](https://dpr-dev.github.io/blog/#/2025-01/01-temporal-intro-part-2-versioning)
+- [Temporal: Intro. Часть 1](https://dpr-dev.github.io/blog/#/2024-11/01-temporal-intro-part-1)
+- [Temporal: Intro. Часть 2: workflow versioning (эта статья)](https://dpr-dev.github.io/blog/#/2025-01/01-temporal-intro-part-2-versioning)
 
 ## Проблема версионирования Workflow в Temporal
 

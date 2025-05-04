@@ -1,8 +1,9 @@
 - [Home](/)
 - 2024-10
-  - [Temporal: Введение. Часть 1](/2024-11/01-temporal-intro-part-1.md)
+  - [Temporal: Intro. Часть 1](/2024-11/01-temporal-intro-part-1.md)
   - [Дизайн API: Как быть, когда есть множество потребителей](/2024-11/02-api-design-for-multiple-consumers.md)
 - 2024-12
   - [Тонкости JSONB в PostgreSQL и EF Core: Как постичь дзен?](/2024-12/01-ef-core-and-jsonb.md)
 - 2025-05
-  - [Temporal: Введение. Часть 2: workflow versioning](/2025-05/01-temporal-intro-part-2-versioning.md)
+  - [Temporal: Intro. Часть 2: workflow versioning](/2025-05/01-temporal-intro-part-2-versioning.md)
+  - [Temporal: Deep Dive. От требований до workflow: проектируем биллинг с оркестрацией (Часть 1 — анализ требований)](/2025-05/02-temporal-deep-dive-billing-design-part-1.md)
